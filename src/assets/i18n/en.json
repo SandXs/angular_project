@@ -1,0 +1,75 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "CV_Archie_Sanders_English.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>PHP and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "School",
+            "Title": "Software developer",
+            "Date": "September 2020 - Present",
+            "Description": [
+              "I started my study with a basic knowledge of coding and scripting.",
+              "Now almost 3 years in i worked my way up to become the developer i am today."
+            ]
+        },
+        {
+            "Tab": "Internship",
+            "Title": "DuZ & Co",
+            "Date": " September 2022 - Present",
+            "Description": [
+              "Duz & Co is a webbased software development company.",
+              "They were founded in 2020.",
+              "Their goal is to build a sustainable management system for businesses to use.",
+              "They primarily work with PHP, Jquery, javascript, HTML and css."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "Pub Tour",
+            "Description": "Website that gives users an unforgettable tour around Londons old and astonishing pubs.",
+            "imgs": [
+                "assets/images/Pub_tour/GLPTLogo.png",
+                "assets/images/Pub_tour/Home_tab_Color.png"
+            ],
+            "Technologies": ["HTML", "Javascript", "CSS"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "More Projects to be added",
+            "Description": "Please be patient while i add more of my projects.",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": [""]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+
+
+}

@@ -1,0 +1,76 @@
+{
+
+    "Header.Item1": "Over mij",
+    "Header.Item2": "Ervaring",
+    "Header.Item3": "Projecten",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "CV",
+    "Header.cvName": "CV_Archie_Sanders_Dutch.pdf",
+
+    "Banner.Pretitle": "Hey! Mijn naam is",
+    "Banner.Description": "Ik heb <span class='underline'>3 jaar ervaring</span> met het ontwikkelen van systemen, interfaces en technologische oplossingen om van internet een betere plek te maken. Ik ben toegewijd aan het schrijven en herstructureren van schone, herbruikbare en schaalbare code in <span class='underline'>Angular</span> waarbij goede praktijken en ontwikkelingsstandaarden worden toegepast.",
+    "Banner.ActionBtn": "Neem contact op",
+
+    "AboutMe.Title": "Over mij",
+    "AboutMe.Paragraphs": [
+      "In mijn <span class='underline'>3 jaar als ontwikkelaar</span> probeer ik elke dag te trainen. Ik heb gewerkt aan het schrijven van <span class='underline'>unit tests</span>, <span class ='underline'>continue integratie uitvoeren</span>, en rollen van backend-ontwikkelaars dekken met <span class='underline'>PHP en Mysql</span>. Ik heb teams geleid met empathie, motivatie voor partners en het opstellen van plannen en doelen samen.",
+      "Mijn vaardigheden omvatten ook het implementeren van systeemverbeteringen, het optimaliseren van sites, het standaardiseren van patronen en het voorstellen en uitvoeren van ideeën die waarde toevoegen aan het project waaraan ik werk.",
+      "Sommige van de technologieën die ik heb getraind en waaraan ik heb gewerkt, omvatten (maar zijn niet beperkt tot):"
+    ],
+
+
+    "Experience.Title": "Ervaring",
+    "Experience.Jobs": [
+      {
+        "Tab": "School",
+        "Title": "Software developer",
+        "Date": "September 2020 - Nu",
+        "Description": [
+          "Ik begon mijn studie met een basiskennis van coderen en scripten.",
+          "Nu, bijna 3 jaar later, heb ik me opgewerkt tot de ontwikkelaar die ik nu ben."
+        ]
+      },
+      {
+        "Tab": "Stage",
+        "Title": "DuZ & Co",
+        "Date": " September 2022 - Nu",
+        "Description": [
+          "Duz & Co is een webgebaseerd softwareontwikkelingsbedrijf.",
+          "Ze zijn opgericht in 2020.",
+          "Hun doel is om een duurzaam managementsysteem te bouwen dat bedrijven kunnen gebruiken.",
+          "Ze werken voornamelijk met PHP, JQuery, javascript, HTML en css."
+        ]
+      }
+  ],
+
+  "FeatureProjects.Title": "Mijn projecten",
+  "FeatureProjects.Label": "Featured Projecten",
+  "FeatureProjects.Projects": [{
+          "Title": "Pub Tour",
+          "Description": "Website die gebruikers een onvergetelijke rondleiding door de oude en verbazingwekkende pubs van Londen geeft.",
+          "imgs": [
+              "assets/images/Pub_tour/GLPTLogo.png",
+              "assets/images/Pub_tour/Home_tab_Color.png"
+          ],
+          "Technologies": [""]
+      }
+  ],
+
+
+
+  "OtherProjects.Title": "Meer projecten",
+  "OtherProjects.Projects": [{
+          "Title": "Meer projecten worden toegevoegd",
+          "Description": "Even geduld terwijl ik meer van mijn projecten toevoeg.",
+          "ghLink": "",
+          "demoLink": "",
+          "Technologies": [""]
+      }
+  ],
+  "Contact.Pretitle": "Wat is het volgende",
+  "Contact.Title": "Kom in contact!",
+  "Contact.Content": "Ik ontvang graag uw contactpersoon als u wilt praten over nieuwe kansen. Schrijf me, en ik zal antwoorden zodra ik je bericht zie.",
+  "Contact.Btn": "Zeg hallo"
+
+
+}
