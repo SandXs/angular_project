@@ -3,7 +3,7 @@
 ## Hoe is het opgebouwd
 
 De pagina is op basis van een single page site die uit meerdere components is opgebouwd.
-De styling is op basis van scss en is een hel om mee te werken.
+De styling is op basis van scss en zorgt voor meer overzicht bij het stylen van de web pagina's
 
 ### Added
 - Functie om taal te veranderen
